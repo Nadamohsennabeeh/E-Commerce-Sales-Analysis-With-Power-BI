@@ -7,7 +7,7 @@ This Power BI dashboard tracks and analyzes sales performance for an e-commerce 
 Key Metrics:
 Total Revenue,
 Total Orders,
-Total Customers,
+Total Customers.
 
 
 Filters & Breakdown:
