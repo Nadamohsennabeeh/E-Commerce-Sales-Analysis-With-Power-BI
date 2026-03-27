@@ -8,14 +8,22 @@ Key Metrics:
 Total Revenue
 Total Orders
 Total Customers
+
+
 Filters & Breakdown:
 Customer Segments: Home Office, Corporate, Consumer
 Product Categories: Electronics, Clothing, Furniture
 Shipping Mode: Same Day, First Class, Second Class, Standard
+
+
 Geography:
 Sales distribution across States and Cities
 Time Analysis:
+
+
 Trends over months based on Order Date and Ship Date
+
+
 Technical Features:
 Data cleaning and transformation with Power Query
 Data modeling and custom DAX measures
