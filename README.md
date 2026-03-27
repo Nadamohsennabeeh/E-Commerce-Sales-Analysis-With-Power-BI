@@ -18,9 +18,9 @@ Shipping Mode: Same Day, First Class, Second Class, Standard
 
 Geography:
 Sales distribution across States and Cities
+
+
 Time Analysis:
-
-
 Trends over months based on Order Date and Ship Date
 
 
